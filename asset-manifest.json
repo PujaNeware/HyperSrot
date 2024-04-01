@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PujaNeware/HyperSrot.git/static/css/main.0b8e30ca.css",
+    "main.js": "/PujaNeware/HyperSrot.git/static/js/main.7064d25a.js",
+    "static/js/453.14f4aa7c.chunk.js": "/PujaNeware/HyperSrot.git/static/js/453.14f4aa7c.chunk.js",
+    "static/media/logo.svg": "/PujaNeware/HyperSrot.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PujaNeware/HyperSrot.git/index.html",
+    "main.0b8e30ca.css.map": "/PujaNeware/HyperSrot.git/static/css/main.0b8e30ca.css.map",
+    "main.7064d25a.js.map": "/PujaNeware/HyperSrot.git/static/js/main.7064d25a.js.map",
+    "453.14f4aa7c.chunk.js.map": "/PujaNeware/HyperSrot.git/static/js/453.14f4aa7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8e30ca.css",
+    "static/js/main.7064d25a.js"
+  ]
+}
