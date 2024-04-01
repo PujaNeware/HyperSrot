@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hypersrot/static/css/main.0b8e30ca.css",
-    "main.js": "/hypersrot/static/js/main.86116925.js",
-    "static/js/453.14f4aa7c.chunk.js": "/hypersrot/static/js/453.14f4aa7c.chunk.js",
-    "static/media/logo.svg": "/hypersrot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hypersrot/index.html",
-    "main.0b8e30ca.css.map": "/hypersrot/static/css/main.0b8e30ca.css.map",
-    "main.86116925.js.map": "/hypersrot/static/js/main.86116925.js.map",
-    "453.14f4aa7c.chunk.js.map": "/hypersrot/static/js/453.14f4aa7c.chunk.js.map"
+    "main.css": "/HyperSrot/static/css/main.0b8e30ca.css",
+    "main.js": "/HyperSrot/static/js/main.de3efad5.js",
+    "static/js/453.14f4aa7c.chunk.js": "/HyperSrot/static/js/453.14f4aa7c.chunk.js",
+    "static/media/logo.svg": "/HyperSrot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HyperSrot/index.html",
+    "main.0b8e30ca.css.map": "/HyperSrot/static/css/main.0b8e30ca.css.map",
+    "main.de3efad5.js.map": "/HyperSrot/static/js/main.de3efad5.js.map",
+    "453.14f4aa7c.chunk.js.map": "/HyperSrot/static/js/453.14f4aa7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b8e30ca.css",
-    "static/js/main.86116925.js"
+    "static/js/main.de3efad5.js"
   ]
 }
